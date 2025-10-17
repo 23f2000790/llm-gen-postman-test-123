@@ -1,7 +1,7 @@
 # Hello Postman
 
 ## Summary
-This is a very simple static web page that displays the text "Hello from Postman!". It serves as a basic example of a web application.
+This is a very simple static web page that displays the text "Hello from Postman round 2!". It serves as a basic example of a web application.
 
 ## Setup
 This is a static site and does not require any special setup or build process. To view the page, simply open the `index.html` file in your web browser.
@@ -13,7 +13,7 @@ This is a static site and does not require any special setup or build process. T
 Alternatively, you can drag and drop the `index.html` file directly into your browser window.
 
 ## Code Explanation
-- `index.html`: This is the main and only file of the project. It contains the standard HTML structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`) and an `<h1>` tag displaying the message "Hello from Postman!".
+- `index.html`: This is the main and only file of the project. It contains the standard HTML structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`) and an `<h1>` tag displaying the message "Hello from Postman round 2!".
 
 ## License
 This project is licensed under the MIT License.
